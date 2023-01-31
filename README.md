@@ -1,4 +1,4 @@
-# test_flutter
+# Calculator Flutter App
 
 A new Flutter project.
 
